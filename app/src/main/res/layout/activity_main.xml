@@ -58,6 +58,7 @@
                     android:layout_marginEnd="20dp"
                     android:layout_marginTop="20dp"
                     android:orientation="vertical">
+
                     <com.smarteist.autoimageslider.SliderView
                         android:id="@+id/slider_image"
                         android:layout_width="match_parent"
